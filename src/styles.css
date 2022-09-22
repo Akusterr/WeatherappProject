@@ -43,3 +43,9 @@ body {
 strong {
     font-size: 40px;
 }
+
+.page-creator {
+    color: black;
+    background-color: whitesmoke;
+    margin: none;
+}
