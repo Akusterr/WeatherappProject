@@ -1,3 +1,9 @@
+
+
+.strong {
+
+    font-size: 50px;
+}
 .city-wrapper {
     font-size: 20px;
     color: #183153;
@@ -13,7 +19,7 @@
 }
 
 .weekday {
-    font-size: 30px;
+    font-size: 20px;
     color: #365585;
     font-family: 'Ibarra Real Nova', serif;
 }
@@ -23,9 +29,9 @@
     box-shadow: 5px 10px #365585;
     border-radius: 50px;
     display: block;
-    margin: 0 auto;
-    padding: 20px;
-    max-width: 80%;
+    margin: 10px auto;
+    padding: 25px;
+    max-width: 700px;;
 }
 
 div {
@@ -37,15 +43,27 @@ div {
 
 body {
     background-color: whitesmoke;
-    padding: 50px;
-}
-
-strong {
-    font-size: 40px;
 }
 
 .page-creator {
     color: black;
-    background-color: whitesmoke;
     margin: none;
+}
+
+.weekdayTemp {
+    font-size: 20px;
+}
+
+.myRow {
+    height: 250px;
+}
+
+.windStat {
+    font-size: 20px;
+}
+
+.windWrapper {
+    padding: 0px !important;
+    font-size: 20px;
+    color: #365585;
 }
