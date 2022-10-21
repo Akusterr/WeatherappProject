@@ -6,12 +6,12 @@
 }
 .city-wrapper {
     font-size: 20px;
-    color: #183153;
+    color: #365585;
     font-family: 'Ibarra Real Nova', serif;
 }
 
 .weather-day {
-    color: #183153;
+    color: #365585;
     text-align: center;
     font-size: 35px;
     padding: 35px;
@@ -25,13 +25,12 @@
 }
 
 .main-wrapper {
-    border: 1.5px solid #365585;
-    box-shadow: 5px 10px #365585;
+    box-shadow: 5px 10px #whitesmoke;
     border-radius: 50px;
     display: block;
     margin: 10px auto;
     padding: 25px;
-    max-width: 700px;;
+    max-width: 700px;
 }
 
 div {
@@ -66,4 +65,8 @@ body {
     padding: 0px !important;
     font-size: 20px;
     color: #365585;
+}
+
+.tempText {
+    font-size: 15px;
 }
